@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RoxTech/static/css/main.c9cf3a64.css",
+    "main.js": "/RoxTech/static/js/main.d073d235.js",
+    "static/js/787.b701888c.chunk.js": "/RoxTech/static/js/787.b701888c.chunk.js",
+    "static/media/chair.jpg": "/RoxTech/static/media/chair.89411cac0e386019387b.jpg",
+    "static/media/logo.svg": "/RoxTech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RoxTech/index.html",
+    "main.c9cf3a64.css.map": "/RoxTech/static/css/main.c9cf3a64.css.map",
+    "main.d073d235.js.map": "/RoxTech/static/js/main.d073d235.js.map",
+    "787.b701888c.chunk.js.map": "/RoxTech/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9cf3a64.css",
+    "static/js/main.d073d235.js"
+  ]
+}
